@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abduladhim Alkhalifah</h1>
 
 <h3 align="center">Web Application Developer | ASP.NET Core & MVC</h3>
 
@@ -10,7 +10,15 @@
   Web engineer specializing in scalable applications with the <b>.NET ecosystem</b>. I focus on clean architecture, RESTful APIs, and responsive frontends — building software that's reliable, secure, and user-friendly.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/abduladhim-alkhalifah">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
 
+  <a href="https://github.com/abduladhim12">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <hr>
 
@@ -53,8 +61,8 @@
 <h2 align="left">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abduladhim12&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduladhim12&layout=compact" alt="Top Languages" />
 </div>
 
 <hr>

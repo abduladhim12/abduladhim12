@@ -18,6 +18,10 @@
   <a href="https://github.com/abduladhim12">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
+
+  <a href="https://abduladhim.vercel.app/">
+    <img src="https://img.shields.io/badge/-Website-4CAF50?style=flat&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 <hr>
@@ -58,14 +62,93 @@
 
 <hr>
 
-<h2 align="left">GitHub Stats</h2>
+<h2 align="left">Featured Projects</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abduladhim12&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduladhim12&layout=compact" alt="Top Languages" />
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Corporate Equipment Loan System</h3>
+      <p><i>Full-stack ASP.NET Core application for managing corporate equipment loans with full Arabic/English bilingual support.</i></p>
+      <br>
+      <b>Features:</b>
+      <ul>
+        <li>Loan request management with approval workflow</li>
+        <li>Department & Equipment CRUD operations</li>
+        <li>Dashboard with real-time statistics</li>
+        <li>Full Arabic localization with RTL layout</li>
+        <li>Server-side validation with localized error messages</li>
+      </ul>
+      <br>
+      <b>Tech Stack:</b>
+      <br>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+      <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="EF Core"/>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+      <br><br>
+      <a href="https://github.com/abduladhim12/EquipmentLoanSystem">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Medical Clinic & Appointment System</h3>
+      <p><i>Multi-language (EN/AR) medical clinic and appointment management system built with ASP.NET Core 8 MVC.</i></p>
+      <br>
+      <b>Features:</b>
+      <ul>
+        <li>Appointment booking with doctor availability checking</li>
+        <li>Full CRUD for Doctors, Departments, and Appointments</li>
+        <li>Bilingual support (English/Arabic) with RTL layout</li>
+        <li>Language switcher for seamless EN/AR navigation</li>
+        <li>Soft delete pattern with localized validation messages</li>
+      </ul>
+      <br>
+      <b>Tech Stack:</b>
+      <br>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+      <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="EF Core"/>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+      <br><br>
+      <a href="https://github.com/abduladhim12/MedicalClinic">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <h3>HR Recruitment & Interview Scheduling System</h3>
+      <p><i>Full-stack ASP.NET Core 8.0 MVC application for managing job candidates, job postings, and interview scheduling with full Arabic/English bilingual support.</i></p>
+      <br>
+      <b>Features:</b>
+      <ul>
+        <li>Candidate management with bilingual name/email/phone fields</li>
+        <li>Job posting CRUD with departments, locations, salary ranges, and capacity limits</li>
+        <li>Interview scheduling with slot collision detection and interviewer conflict checks</li>
+        <li>Full Arabic/English localization with RTL layout and language switcher</li>
+        <li>Soft delete pattern with localized server-side validation messages</li>
+      </ul>
+      <br>
+      <b>Tech Stack:</b>
+      <br>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+      <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="EF Core"/>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+      <br><br>
+      <a href="https://github.com/abduladhim12/HRRecruitmentSystem">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <hr>
+
+
 
 <h2 align="left">Let's Connect</h2>
 

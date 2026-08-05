@@ -231,6 +231,40 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Corporate IT Helpdesk & Asset Request Portal</h3>
+      <p><i>Full-stack ASP.NET Core 8 MVC platform for managing IT support tickets, asset requests, vendor contracts, and department budgets with bilingual support (EN/AR) and 5 role-based areas.</i></p>
+      <br>
+      <b>Features:</b>
+      <ul>
+        <li>5 role-based areas: Admin, Employee, ITVendor, Department Manager, Auth</li>
+        <li>Ticket lifecycle: Create → Assign → Track → Resolve with SLA compliance</li>
+        <li>Asset request & tracking with approval workflow</li>
+        <li>Vendor management: registration, approval gate, contracts</li>
+        <li>Full Arabic/English bilingual with RTL layout and language toggle</li>
+        <li>Vendor approval filter — unapproved vendors locked to pending page</li>
+        <li>Unique email enforcement at app + database level</li>
+        <li>Secure file uploads: extension whitelist, MIME check, magic bytes, ImageSharp re-encoding</li>
+        <li>Audit trail logging for all mutations with old/new values</li>
+        <li>4-layer architecture: Data, Resources, Business, Web</li>
+      </ul>
+      <br>
+      <b>Tech Stack:</b>
+      <br>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+      <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="EF Core"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+      <br><br>
+      <a href="https://github.com/abduladhim12/HelpDesk">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
 
 <hr>

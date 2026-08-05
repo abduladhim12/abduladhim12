@@ -171,6 +171,38 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Municipal Infrastructure & Public Works Contracting System</h3>
+      <p><i>Full-stack ASP.NET Core 8 MVC platform for managing municipal infrastructure projects, tenders, contractors, inspectors, and consultants with bilingual support (EN/AR) and 4 role-based areas.</i></p>
+      <br>
+      <b>Features:</b>
+      <ul>
+        <li>4 role-based areas: Admin, Company, Consultant, Inspector</li>
+        <li>Project & tender management with contractor bidding workflow</li>
+        <li>Inspector tools: violations, safety hazards, stop work orders</li>
+        <li>Consultant approvals for structural, material, and completion status</li>
+        <li>Full Arabic/English bilingual with RTL layout and language toggle</li>
+        <li>Unique email constraint with database-level enforcement</li>
+        <li>Audit trail logging for all mutations with old/new values</li>
+        <li>4-layer architecture: Data, Resources, Business, Web</li>
+      </ul>
+      <br>
+      <b>Tech Stack:</b>
+      <br>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+      <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="EF Core"/>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+      <br><br>
+      <a href="https://github.com/abduladhim12/MunicipalInfrastructure">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
 
 <hr>

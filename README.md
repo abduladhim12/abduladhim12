@@ -67,6 +67,33 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>E-Commerce & Order Management System</h3>
+      <p><i>Full-stack ASP.NET Core 8 MVC e-commerce platform with multi-vendor support, bilingual interface (EN/AR), and role-based access control.</i></p>
+      <br>
+      <b>Features:</b>
+      <ul>
+        <li>Multi-vendor support with company approval workflow</li>
+        <li>Full CRUD across Admin, Company, and Customer areas</li>
+        <li>Shopping cart, checkout, and order tracking</li>
+        <li>Full Arabic/English bilingual with RTL layout</li>
+        <li>Cookie-based auth with role-based access control</li>
+        <li>Product image upload with validation</li>
+        <li>Audit trail logging for all mutations</li>
+      </ul>
+      <br>
+      <b>Tech Stack:</b>
+      <br>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+      <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="EF Core"/>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+      <br><br>
+      <a href="https://github.com/abduladhim12/Ecommerce">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
       <h3>Corporate Equipment Loan System</h3>
       <p><i>Full-stack ASP.NET Core application for managing corporate equipment loans with full Arabic/English bilingual support.</i></p>
       <br>
@@ -91,6 +118,8 @@
         <img src="https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>Medical Clinic & Appointment System</h3>
       <p><i>Multi-language (EN/AR) medical clinic and appointment management system built with ASP.NET Core 8 MVC.</i></p>
@@ -116,9 +145,7 @@
         <img src="https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" width="100%" valign="top">
+    <td width="50%" valign="top">
       <h3>HR Recruitment & Interview Scheduling System</h3>
       <p><i>Full-stack ASP.NET Core 8.0 MVC application for managing job candidates, job postings, and interview scheduling with full Arabic/English bilingual support.</i></p>
       <br>
@@ -147,8 +174,6 @@
 </table>
 
 <hr>
-
-
 
 <h2 align="left">Let's Connect</h2>
 
